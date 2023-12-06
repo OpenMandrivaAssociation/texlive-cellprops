@@ -1,6 +1,6 @@
 Name:		texlive-cellprops
-Version:	57599
-Release:	2
+Version:	67201
+Release:	1
 Summary:	Accept CSS-like selectors in tabular, array, ...
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cellprops

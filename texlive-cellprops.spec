@@ -3,7 +3,7 @@ Version:	67201
 Release:	1
 Summary:	Accept CSS-like selectors in tabular, array, ...
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cellprops
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/cellprops
 License:	gpl3+
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cellprops.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cellprops.doc.r%{version}.tar.xz
